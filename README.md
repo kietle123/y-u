@@ -13,17 +13,22 @@
             background-color: #ffccdc;
             font-family: Arial, sans-serif;
             text-align: center;
+            margin: 0;
         }
         .message {
             font-size: 24px;
             font-weight: bold;
             color: #d63384;
+            padding: 20px;
+            border-radius: 10px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
     </style>
 </head>
 <body>
     <div class="message">
-        Chúc mừng các tình yêu A bốn 2 không 0 bẩy ngày mồng 8 tháng 3 vui vẻ, yêu thương !
+        Chúc mừng các tình yêu A4 2007 ngày mùng 8 tháng 3 vui vẻ, yêu thương!
     </div>
 </body>
 </html>
